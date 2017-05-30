@@ -32,7 +32,7 @@ npm start
 ```
 Results from example will be in file similar to ```rng_test_1496140719686_0.2279638278910321.txt```.
 Source code of usage example in file ```index.js```.
-RNG source code iin folder ```node_modules/random-number-csprng``
+RNG source code located in folder ```node_modules/random-number-csprng``
 
 ## If you are using Docker
 ```
