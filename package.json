@@ -1,0 +1,12 @@
+{
+  "name": "rng_certification",
+  "version": "1.0.0",
+  "description": "Environment for RNG certification",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "random-number-csprng": "^1.0.2"
+  }
+}
