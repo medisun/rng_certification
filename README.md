@@ -5,7 +5,7 @@ INSTALLATION GUIDE
  - OS distributive: Ubuntu 14.04.5 LTS (Trusty Tahr)
  - NodeJS v6.10.3
  - NPM v3.10.10
- - node-random-number-csprng v1.0.2 [https://www.npmjs.com/package/random-number-csprng][https://github.com/joepie91/node-random-number-csprng]
+ - node-random-number-csprng v1.0.2 [NPM registry](https://www.npmjs.com/package/random-number-csprng) [GitHub](https://github.com/joepie91/node-random-number-csprng)
 
 
 ## How to install it on Ubuntu
@@ -30,8 +30,8 @@ npm install
 cd ~/dir-with-sources
 npm start
 ```
-File similar to ```rng_test_1496140719686_0.2279638278910321.txt``` must be created.
-Change ```index.js```
+Results from example will be in file similar to ```rng_test_1496140719686_0.2279638278910321.txt```.
+Source code of usage example in file ```index.js```.
 
 ## If you are using Docker
 ```
